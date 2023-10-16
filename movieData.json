@@ -1,0 +1,1304 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Exorcist",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 2,
+            "title": "The Fly",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 3,
+            "title": "The Thing",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 4,
+            "title": "Alien",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 5,
+            "title": "Barbarian",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 6,
+            "title": "Possessor",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 7,
+            "title": "Hellraiser",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 8,
+            "title": "Teeth",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 9,
+            "title": "An American Werewolf in London",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 10,
+            "title": "Re-Animator",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 11,
+            "title": "The Human Centipede",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 12,
+            "title": "Akira",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 13,
+            "title": "Tusk",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 14,
+            "title": "Black Swan",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 15,
+            "title": "Titane",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 16,
+            "title": "Ichi the Killer",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 17,
+            "title": "Hereditary",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 18,
+            "title": "Poltergeist",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 19,
+            "title": "The Ring",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 20,
+            "title": "Paranormal Activity",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 21,
+            "title": "The Blair Witch Project",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 22,
+            "title": "Rosemary's Baby",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 23,
+            "title": "The Conjuring",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 24,
+            "title": "The Babadook",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 25,
+            "title": "The 6th Sense",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 26,
+            "title": "The Wailing",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 27,
+            "title": "The Witch",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 28,
+            "title": "Nope",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 29,
+            "title": "The Lighthouse",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 30,
+            "title": "Candyman",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 31,
+            "title": "It",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 32,
+            "title": "Barbarian",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 33,
+            "title": "As Above, So Below",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 34,
+            "title": "The Descent",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 35,
+            "title": "Hell House LLC",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 36,
+            "title": "The Omen",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 37,
+            "title": "Amityville Horror",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 38,
+            "title": "Lake Mungo",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 39,
+            "title": "Saw",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 40,
+            "title": "Final Destination",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 41,
+            "title": "Hostel",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 42,
+            "title": "Evil Dead",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 43,
+            "title": "The Audition",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 44,
+            "title": "Terrifier",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 45,
+            "title": "House of 1000 Corpses",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 46,
+            "title": "Martyrs",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 47,
+            "title": "X",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 48,
+            "title": "Jeepers Creepers",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 49,
+            "title": "House of Wax",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 50,
+            "title": "Trick 'r Treat",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 51,
+            "title": "Planet Terror",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 52,
+            "title": "Day of the Dead",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 53,
+            "title": "The Sadness",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 54,
+            "title": "It's the Great Pumpkin, Charlie Brown",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 55,
+            "title": "The Nightmare Before Christmas",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 56,
+            "title": "Hocus Pocus",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 57,
+            "title": "Coraline",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 58,
+            "title": "Halloweentown",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 59,
+            "title": "The Addams Family",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 60,
+            "title": "Casper",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 61,
+            "title": "Gremlins",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 62,
+            "title": "Hotel Transylvania",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 63,
+            "title": "Frankenweenie",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 64,
+            "title": "The Corpse Bride",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 65,
+            "title": "Mom's Got a Date With a Vampire",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 66,
+            "title": "Little Shop of Horrors",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 67,
+            "title": "Scooby Doo: Zombie Island",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 68,
+            "title": "Twitches",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 69,
+            "title": "Phantom of the Megaplex",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 70,
+            "title": "Beetlejuice",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 71,
+            "title": "Edward Scissorhands",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 72,
+            "title": "Labyrinth",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 73,
+            "title": "Rocky Horror Picture Show",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 74,
+            "title": "Sleepy Hollow",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 75,
+            "title": "Ginger Snaps",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 76,
+            "title": "Beetlejuice",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 77,
+            "title": "Halloween",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 78,
+            "title": "A Nightmare on Elm's Street",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 79,
+            "title": "Child's Play",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 80,
+            "title": "Jennifer's Body",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 81,
+            "title": "It",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 82,
+            "title": "The Lost Boys",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 83,
+            "title": "The Shining",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 84,
+            "title": "Silence of the Lambs",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 85,
+            "title": "Get Out",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 86,
+            "title": "Carrie",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 87,
+            "title": "Psycho",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 88,
+            "title": "Funny Games",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 89,
+            "title": "Misery",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 90,
+            "title": "American Psycho",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 91,
+            "title": "Midsommar",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 92,
+            "title": "The Lighthouse",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 93,
+            "title": "Green Room",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 94,
+            "title": "The Last House on the Left",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 95,
+            "title": "The Strangers",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 96,
+            "title": "Perfect Blue",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 97,
+            "title": "It Follows",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 98,
+            "title": "As Above, So Below",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 99,
+            "title": "Creep",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 100,
+            "title": "The Purge",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 101,
+            "title": "Scream",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 102,
+            "title": "Friday the 13th",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 103,
+            "title": "Evil Dead",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 104,
+            "title": "Texas Chainsaw Massacre",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 105,
+            "title": "The Devil's Rejects",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 106,
+            "title": "The Hills Have Eyes",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 107,
+            "title": "Shaun of the Dead",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 108,
+            "title": "Cabin in the Woods",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 109,
+            "title": "What We Do in the Shadows",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 110,
+            "title": "Tucker & Dale vs. Evil",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 111,
+            "title": "Ghostbusters",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 112,
+            "title": "The Dead Don't Die",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 113,
+            "title": "Scary Movie",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 114,
+            "title": "Dawn of the Dead",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 115,
+            "title": "Train to Busan",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 116,
+            "title": "One Cut of the Dead",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 117,
+            "title": "28 Days Later",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 118,
+            "title": "28 Weeks Later",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 119,
+            "title": "Night of the Living Dead",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 120,
+            "title": "[Rec]",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 121,
+            "title": "Zombieland",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 122,
+            "title": "Nosferatu",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 123,
+            "title": "The Invisible Man",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 124,
+            "title": "Dracula",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 125,
+            "title": "Frankenstein",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 126,
+            "title": "Dr. Jekyll and Mr. Hyde",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 127,
+            "title": "The Phantom of the Opera",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 128,
+            "title": "Suspiria",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 129,
+            "title": "What Ever Happened to Baby Jane?",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        },
+        {
+            "id": 130,
+            "title": "The Creature From the Black Lagoon",
+            "posterUrl": "",
+            "runtime": 0,
+            "genre": "",
+            "age-rating": "",
+            "watchlist": false,
+            "star-rating": ""
+        }
+    ]
+}

@@ -312,7 +312,7 @@
         },
         {
             "id": 32,
-            "title": "Barbarian",
+            "title": "The Creature From the Black Lagoon",
             "posterUrl": "",
             "runtime": 0,
             "genre": "",
@@ -752,7 +752,7 @@
         },
         {
             "id": 76,
-            "title": "Beetlejuice",
+            "title": "What Ever Happened to Baby Jane?",
             "posterUrl": "",
             "runtime": 0,
             "genre": "",
@@ -802,7 +802,7 @@
         },
         {
             "id": 81,
-            "title": "It",
+            "title": "Suspiria",
             "posterUrl": "",
             "runtime": 0,
             "genre": "",
@@ -1263,36 +1263,6 @@
         {
             "id": 127,
             "title": "The Phantom of the Opera",
-            "posterUrl": "",
-            "runtime": 0,
-            "genre": "",
-            "age-rating": "",
-            "watchlist": false,
-            "star-rating": ""
-        },
-        {
-            "id": 128,
-            "title": "Suspiria",
-            "posterUrl": "",
-            "runtime": 0,
-            "genre": "",
-            "age-rating": "",
-            "watchlist": false,
-            "star-rating": ""
-        },
-        {
-            "id": 129,
-            "title": "What Ever Happened to Baby Jane?",
-            "posterUrl": "",
-            "runtime": 0,
-            "genre": "",
-            "age-rating": "",
-            "watchlist": false,
-            "star-rating": ""
-        },
-        {
-            "id": 130,
-            "title": "The Creature From the Black Lagoon",
             "posterUrl": "",
             "runtime": 0,
             "genre": "",

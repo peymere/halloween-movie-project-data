@@ -422,7 +422,7 @@
         },
         {
             "id": 43,
-            "title": "The Audition",
+            "title": "Audition",
             "posterUrl": "",
             "runtime": 0,
             "genre": "",
@@ -1022,7 +1022,7 @@
         },
         {
             "id": 103,
-            "title": "Evil Dead",
+            "title": "The Phantom of the Opera",
             "posterUrl": "",
             "runtime": 0,
             "genre": "",
@@ -1253,16 +1253,6 @@
         {
             "id": 126,
             "title": "Dr. Jekyll and Mr. Hyde",
-            "posterUrl": "",
-            "runtime": 0,
-            "genre": "",
-            "age-rating": "",
-            "watchlist": false,
-            "star-rating": ""
-        },
-        {
-            "id": 127,
-            "title": "The Phantom of the Opera",
             "posterUrl": "",
             "runtime": 0,
             "genre": "",
